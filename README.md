@@ -40,7 +40,7 @@ The project uses dictionaries to store menu items and customer orders.
 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/restaurant-management-system.git
+git clone https://github.com/GithubRakesh-hue/RMS.git
 ```
 
 2. Navigate to the project folder
